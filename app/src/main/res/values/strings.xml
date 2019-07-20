@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OnaEndpoints</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Navigation drawer items-->
+    <string name="home">Home</string>
+    <string name="myprofile">Profile</string>
+    <string name="feedback">Feedback</string>
+    <string name="aboutapp">About App</string>
+    <string name="rate">Rate Us</string>
+    <string name="helpcentre">Help Center</string>
+
+    <string name="noconnection">Kindly connect to a WIFI network or enable Mobile Data</string>
+</resources>
